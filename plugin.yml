@@ -1,0 +1,10 @@
+name: BalloonGadget
+version: 0.1a
+main: me.tyler.balloons.BalloonPlugin
+
+depend: [ProtocolLib]
+
+commands:
+    balloon:
+        description: Gives you a random balloon
+        usage: /balloon
